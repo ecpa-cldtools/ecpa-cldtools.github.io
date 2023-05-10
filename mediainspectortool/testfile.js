@@ -10,7 +10,7 @@ function appMain() {
 /** Main() */
 /** ************************* */
 
-$(window).load(function () {
-  // start javascript
-  appMain();
-});
+//$(window).load(function () {
+// start javascript
+appMain();
+//});
