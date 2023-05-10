@@ -1,6 +1,4 @@
 function appMain() {
-  const objMiTool = new ClsMediaInspectorTool();
-
   const getResourcesPerfData = () => {
     console.log("This is good for now....");
   };
