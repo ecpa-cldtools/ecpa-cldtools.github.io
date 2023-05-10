@@ -5,12 +5,3 @@ function appMain() {
 
   getResourcesPerfData();
 }
-
-/** ************************* */
-/** Main() */
-/** ************************* */
-
-//$(window).load(function () {
-// start javascript
-appMain();
-//});
